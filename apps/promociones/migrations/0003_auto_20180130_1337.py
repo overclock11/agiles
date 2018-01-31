@@ -7,7 +7,7 @@ import django.db.models.deletion
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('prueba', '0002_auto_20180130_1241'),
+        ('promociones', '0002_auto_20180130_1241'),
     ]
 
     operations = [
@@ -26,26 +26,26 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='commentary',
             name='promotion',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='prueba.Promotion'),
+            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='promociones.Promotion'),
         ),
         migrations.AddField(
             model_name='commentary',
             name='user',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='prueba.User'),
+            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='promociones.User'),
         ),
         migrations.AddField(
             model_name='favourite',
             name='category',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='prueba.Category'),
+            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='promociones.Category'),
         ),
         migrations.AddField(
             model_name='favourite',
             name='user',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='prueba.User'),
+            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='promociones.User'),
         ),
         migrations.AlterField(
             model_name='promotion',
             name='category',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='prueba.Category'),
+            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='promociones.Category'),
         ),
     ]

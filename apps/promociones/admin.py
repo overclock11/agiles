@@ -1,5 +1,5 @@
 from django.contrib import admin
-from apps.prueba.models import User, Category, Favourite, Promotion, Commentary
+from apps.promociones.models import User, Category, Favourite, Promotion, Commentary
 
 # Register your models here.
 
