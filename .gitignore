@@ -1,4 +1,4 @@
-k# Created by https://www.gitignore.io
+# Created by https://www.gitignore.io
 
 ### OSX ###
 .DS_Store
@@ -81,7 +81,7 @@ target/
 ### Django ###
 *.log
 *.pot
-*.pyc
+*/*.pyc
 __pycache__/
 local_settings.py
 
