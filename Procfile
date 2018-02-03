@@ -1,1 +1,1 @@
-web: gunicorn appAgiles.wsgi --log-file -
+web: gunicorn appAgiles.wsgi
