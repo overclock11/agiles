@@ -25,7 +25,7 @@ SECRET_KEY = '4z*j%rmw0t7f3$iq&uu8px@0pc_a43pfi(-fj++@izlh2kgk)a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["fierce-everglades-44128.herokuapp.com"]
+ALLOWED_HOSTS = ["boiling-beach-61667.herokuapp.com"]
 
 
 # Application definition
