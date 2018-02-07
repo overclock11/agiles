@@ -11,8 +11,8 @@ p {margin: 0;}
 html, body{
    font-family: 'Lato', sans-serif;
     font-size: 100%;
-    background-color: #FFF;
-}
+    background-color:beige;
+}    
 body a{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;

@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="es">
 <head>
-<title>Shutter Bootstarp Website Template | Home :: w3layouts</title>
+<title>Portal de promociones</title>
 <link href="{% static 'css/bootstrap.css' &}" rel='stylesheet' type='text/css' />
 <!--<link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
 <script src="js/bootstrap.min.js"></script>-->
@@ -17,6 +17,7 @@
 </script>
 <!----webfonts---->
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,500,700,900' rel='stylesheet' type='text/css'>
+<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
 <!----//webfonts---->
 <!----//requred-js-files---->
 <script src="{% static 'js/easing.js' %}"></script>
@@ -46,19 +47,7 @@
 	                        <a id="sTop" class="subNavBtn active" href="#">Home</a>
 	                    </li>
 	                    <li class="page-scroll">
-	                        <a id="s1" class="subNavBtn" href="#">Portfolio</a>
-	                    </li>
-	                    <li class="page-scroll">
-	                        <a id="s2" class="subNavBtn" href="#">Services</a>
-	                    </li>
-	                    <li class="page-scroll">
 	                        <a id="s3" class="subNavBtn" href="#">Sign Up</a>
-	                    </li>
-	                   <li class="page-scroll">
-	                        <a id="s4" class="subNavBtn" href="#">About</a>
-	                    </li>
-	                    <li class="page-scroll">
-	                        <a id="s5" class="subNavBtn" href="#">Contact</a>
 	                    </li>
 	                </ul>
 	            </div>
@@ -70,6 +59,24 @@
    	  </nav>
     {% endblock %}
     {% block content %} <p>Contenido</p>   {% endblock %}
-    {% block footer%} <h3>Footer</h3> {% endblock %}
+	{% block footer%}
+	<div class="footer" style="margin-top:5%;">
+		<div class="container">
+			<div class="copy">
+			<p>&copy; 2014 Template by <a href="http://w3layouts.com" target="_blank"> w3layouts</a></p>
+		 </div>
+		 <div class="social">
+		   <ul>
+			<li class="facebook"><a href="#"><span> </span></a></li>
+			<li class="twitter"><a href="#"><span> </span></a></li>
+			<li class="rss"><a href="#"><span> </span></a></li>
+			<li class="google"><a href="#"><span> </span></a></li>
+		  </ul>
+		 </div>
+		 <div class="clearfix"></div>
+		</div>
+	</div>
+	<script src="{% static 'js/bootstrap.min.js' %}"></script>	
+	{% endblock %}
 </body>
 </html>

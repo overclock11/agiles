@@ -1,0 +1,25 @@
+{% extends 'base/base.html' %}
+{% load humanize %}
+{% load staticfiles %}
+
+{% block content %}
+    <h1>{{promotion}}</h1>
+    <div class="row">
+        <div class="col-md-12" style="margin-top:5%;">
+            <div class="col-md-6 col-md-offset-1">
+                <img src="{{promotion.image}}" alt="" class="img-responsive">
+            </div>
+            <div class="col-md-3">
+                <h1>{{promotion.name}}</h1>
+                <p>{{promotion.description}}</p>
+                <h4 style="color:orange;">${{promotion.value|intcomma}}</h4>
+                <a href="/promociones">                    
+                    <i class="fa fa-arrow-circle-left " style="color:red;">
+                        Volver
+                    </i>
+                </a>                
+                
+            </div>
+        </div>
+    </div>
+{% endblock%}

@@ -1,1 +1,0 @@
-web: gunicorn appAgiles.wsgi
