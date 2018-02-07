@@ -25,7 +25,7 @@ SECRET_KEY = '4z*j%rmw0t7f3$iq&uu8px@0pc_a43pfi(-fj++@izlh2kgk)a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["boiling-beach-61667.herokuapp.com"]
+ALLOWED_HOSTS = ["boiling-beach-61667.herokuapp.com","localhost"]
 
 
 # Application definition
@@ -80,7 +80,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'promotions',
-        'USER': 'sergio',
+        'USER': 'postgres',
         'PASSWORD': 'ironman123',
         'HOST': 'localhost',
         'PORT': '5432',
@@ -125,6 +125,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATICFILES_DIRS=(os.path.join(BASE_DIR,'static'))
 
 import dj_database_url
 db_from_env = dj_database_url.config()

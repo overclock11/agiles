@@ -21,3 +21,6 @@ def promotionDetails(request, promotion_id):
     html += "Imagen: " + promotion.image + "<br>"
     html += "Categoría: " + promotion.category.name + "<br>"
     return HttpResponse(html)
+
+def prueba(request):
+    return render(request,'promociones/index.html')
