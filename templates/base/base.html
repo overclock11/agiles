@@ -44,10 +44,10 @@
 	                <ul class="nav navbar-nav">
 	                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
 	                    <li class="active">
-	                        <a id="sTop" class="subNavBtn active" href="#">Home</a>
+	                        <a id="sTop" class="subNavBtn active" href="/promociones">Home</a>
 	                    </li>
 	                    <li class="page-scroll">
-	                        <a id="s3" class="subNavBtn" href="#">Sign Up</a>
+	                        <a id="s3" class="subNavBtn" href="/promociones/signup">Sign Up</a>
 	                    </li>
 	                </ul>
 	            </div>
@@ -60,7 +60,8 @@
     {% endblock %}
     {% block content %} <p>Contenido</p>   {% endblock %}
 	{% block footer%}
-	<div class="footer" style="margin-top:5%;">
+
+	<div class="footer" style="position: fixed; bottom: 10px; right: 10px; width: 100%;">
 		<div class="container">
 			<div class="copy">
 			<p>&copy; 2014 Template by <a href="http://w3layouts.com" target="_blank"> w3layouts</a></p>

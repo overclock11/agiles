@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/appAgiles/settings.py" line="129" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bdd8510-7069-4b69-ae63-3a39cb359082" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/agiles.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/DESCRIPTION.rst" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/INSTALLER" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/METADATA" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/METADATA" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions-1.9.9.dist-info/top_level.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/admin/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/admin/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/admin/filter.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/admin/filter.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/admin/widgets.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/admin/widgets.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/collision_resolvers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/collision_resolvers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/forms.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/forms.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/models.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/models.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/urls.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/urls.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/views.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/app_template/views.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/command_template/management/commands/sample.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/command_template/management/commands/sample.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/jobs_template/jobs/sample.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/jobs_template/jobs/sample.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/template_tags_template/templatetags/sample.py.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/conf/template_tags_template/templatetags/sample.py.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/fields/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/fields/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/fields/encrypted.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/fields/encrypted.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/fields/json.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/fields/json.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/models.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/db/models.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/jobs/daily/cache_cleanup.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/jobs/daily/cache_cleanup.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/jobs/daily/daily_cleanup.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/jobs/daily/daily_cleanup.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/cs/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/cs/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/da/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/da/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/de/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/de/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/el/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/el/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/en/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/en/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/es/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/es/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/et/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/et/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/fr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/fr/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/hu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/hu/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/it/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/it/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/ja/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/ja/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/pl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/pl/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/pt/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/pt/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/pt_BR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/pt_BR/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/ro/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/ro/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/ru/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/ru/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/sk/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/sk/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/tr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/tr/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/zh_CN/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/locale/zh_CN/LC_MESSAGES/django.po" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/logging/filters.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/logging/filters.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/base.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/base.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/color.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/color.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/admin_generator.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/admin_generator.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/clean_pyc.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/clean_pyc.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/clear_cache.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/clear_cache.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/compile_pyc.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/compile_pyc.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_app.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_app.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_command.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_command.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_jobs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_jobs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_template_tags.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/create_template_tags.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/delete_squashed_migrations.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/delete_squashed_migrations.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/describe_form.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/describe_form.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/drop_test_database.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/drop_test_database.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/dumpscript.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/dumpscript.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/export_emails.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/export_emails.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/find_template.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/find_template.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/generate_secret_key.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/generate_secret_key.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/graph_models.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/graph_models.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/mail_debug.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/mail_debug.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/merge_model_instances.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/merge_model_instances.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/notes.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/notes.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/passwd.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/passwd.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/pipchecker.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/pipchecker.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/print_settings.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/print_settings.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/print_user_for_session.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/print_user_for_session.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/reset_db.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/reset_db.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runjob.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runjob.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runjobs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runjobs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runprofileserver.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runprofileserver.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runscript.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runscript.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runserver_plus.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/runserver_plus.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/set_default_site.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/set_default_site.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/set_fake_emails.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/set_fake_emails.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/set_fake_passwords.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/set_fake_passwords.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/shell_plus.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/shell_plus.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/show_template_tags.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/show_template_tags.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/show_templatetags.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/show_templatetags.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/show_urls.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/show_urls.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sqlcreate.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sqlcreate.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sqldiff.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sqldiff.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sqldsn.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sqldsn.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sync_s3.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/sync_s3.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/syncdata.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/syncdata.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/unreferenced_files.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/unreferenced_files.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/update_permissions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/update_permissions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/validate_templates.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/commands/validate_templates.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/email_notifications.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/email_notifications.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/jobs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/jobs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/modelviz.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/modelviz.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/mysql.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/mysql.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/notebook_extension.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/notebook_extension.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/shells.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/shells.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/signals.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/signals.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/technical_response.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/technical_response.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/utils.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/management/utils.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/fields/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/fields/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/fields/encrypted.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/fields/encrypted.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/fields/json.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/fields/json.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/models.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/mongodb/models.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/settings.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/settings.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/css/jquery.autocomplete.css" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/css/jquery.autocomplete.css" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/js/jquery.ajaxQueue.js" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/js/jquery.ajaxQueue.js" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/js/jquery.autocomplete.js" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/js/jquery.autocomplete.js" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/js/jquery.bgiframe.js" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/static/django_extensions/js/jquery.bgiframe.js" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/graph_models/digraph.dot" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/graph_models/digraph.dot" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/graph_models/label.dot" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/graph_models/label.dot" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/graph_models/relation.dot" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/graph_models/relation.dot" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/widgets/foreignkey_searchinput.html" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templates/django_extensions/widgets/foreignkey_searchinput.html" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/highlighting.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/highlighting.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/indent_text.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/indent_text.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/syntax_color.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/syntax_color.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/truncate_letters.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/truncate_letters.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/widont.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/templatetags/widont.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/utils/deprecation.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/utils/deprecation.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/utils/dia2django.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/utils/dia2django.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/utils/text.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/utils/text.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/validators.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/django_extensions/validators.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/easy_install.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/easy_install.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/INSTALLER" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/METADATA" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/METADATA" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/RECORD" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/entry_points.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip-9.0.1.dist-info/top_level.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/__main__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/__main__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/appdirs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/appdirs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/ansi.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/initialise.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/win32.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/win32.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/winterm.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/database.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/database.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/index.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/index.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/locators.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/locators.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/manifest.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/markers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/markers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/metadata.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/resources.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/resources.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/scripts.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/util.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/util.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/version.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/version.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distro.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/distro.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_ihatexml.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_inputstream.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_inputstream.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_tokenizer.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/_base.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/py.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_trie/py.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_utils.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/_utils.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/constants.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/base.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/base.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/serializer.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/serializer.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/ipaddress.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/ipaddress.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/linklockfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/linklockfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/ordereddict.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/ordereddict.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/__about__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/__about__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/_compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/_compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/_structures.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/_structures.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/markers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/markers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/requirements.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/requirements.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/specifiers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/utils.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/utils.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/version.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/packaging/version.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/bar.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/bar.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/counter.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/counter.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/helpers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/helpers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/spinner.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/progress/spinner.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/pyparsing.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/re-vendor.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/re-vendor.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/adapters.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/adapters.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/api.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/api.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/auth.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/auth.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/cacert.pem" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/certs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/certs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/cookies.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/cookies.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/exceptions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/hooks.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/hooks.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/models.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/models.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/sessions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/sessions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/status_codes.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/structures.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/structures.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/utils.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/requests/utils.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/retrying.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/retrying.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/six.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/six.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/labels.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/labels.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/mklabels.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/mklabels.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/tests.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/tests.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/basecommand.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/basecommand.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/baseparser.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/baseparser.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/cmdoptions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/cmdoptions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/check.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/check.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/completion.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/completion.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/download.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/download.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/freeze.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/freeze.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/hash.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/hash.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/help.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/help.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/install.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/install.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/list.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/list.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/search.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/search.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/show.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/show.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/uninstall.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/uninstall.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/wheel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/commands/wheel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/compat/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/compat/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/compat/dictconfig.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/compat/dictconfig.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/download.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/download.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/exceptions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/exceptions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/index.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/index.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/locations.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/locations.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/models/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/models/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/models/index.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/models/index.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/operations/check.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/operations/check.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/operations/freeze.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/operations/freeze.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/pep425tags.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/pep425tags.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_file.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_file.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_install.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_install.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_set.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_set.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_uninstall.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/req/req_uninstall.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/status_codes.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/status_codes.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/appdirs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/appdirs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/build.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/build.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/deprecation.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/deprecation.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/encoding.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/encoding.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/filesystem.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/filesystem.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/glibc.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/glibc.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/hashes.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/hashes.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/logging.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/logging.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/outdated.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/outdated.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/packaging.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/packaging.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/setuptools_build.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/setuptools_build.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/ui.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/utils/ui.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/bazaar.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/bazaar.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/git.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/git.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/mercurial.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/mercurial.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/subversion.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/vcs/subversion.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/wheel.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pip/wheel.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/appdirs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/appdirs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/six.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/_vendor/six.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/extern/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pkg_resources/extern/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/psycopg2-2.7.3.2.dist-info/RECORD" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/psycopg2-2.7.3.2.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/psycopg2-2.7.3.2.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/psycopg2-2.7.3.2.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/DESCRIPTION.rst" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/INSTALLER" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/METADATA" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/METADATA" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/top_level.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/zip-safe" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz-2017.3.dist-info/zip-safe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/exceptions.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/exceptions.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/lazy.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/lazy.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/reference.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/reference.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/tzfile.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/tzfile.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/tzinfo.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/tzinfo.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/iso3166.tab" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/iso3166.tab" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/leapseconds" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/leapseconds" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/tzdata.zi" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/tzdata.zi" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/zone.tab" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/zone.tab" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/zone1970.tab" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/pytz/zoneinfo/zone1970.tab" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/DESCRIPTION.rst" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/INSTALLER" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/METADATA" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/METADATA" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/RECORD" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/RECORD" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/dependency_links.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/dependency_links.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/entry_points.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/top_level.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/zip-safe" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools-28.8.0.dist-info/zip-safe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/archive_util.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/archive_util.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/alias.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/alias.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/bdist_egg.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/bdist_egg.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/bdist_rpm.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/bdist_rpm.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/bdist_wininst.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/bdist_wininst.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/build_ext.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/build_ext.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/build_py.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/build_py.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/develop.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/develop.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/easy_install.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/easy_install.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/egg_info.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/egg_info.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install_egg_info.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install_egg_info.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install_lib.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install_lib.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install_scripts.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/install_scripts.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/launcher manifest.xml" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/launcher manifest.xml" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/py36compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/py36compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/register.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/register.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/rotate.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/rotate.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/saveopts.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/saveopts.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/sdist.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/sdist.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/setopt.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/setopt.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/test.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/test.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/upload.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/upload.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/upload_docs.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/command/upload_docs.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/depends.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/depends.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/dist.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/dist.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/extension.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/extension.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/extern/__init__.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/extern/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/glob.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/glob.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/launch.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/launch.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/lib2to3_ex.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/lib2to3_ex.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/monkey.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/monkey.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/msvc.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/msvc.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/namespaces.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/namespaces.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/package_index.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/package_index.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/py26compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/py26compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/py27compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/py27compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/py31compat.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/py31compat.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/sandbox.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/sandbox.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/script (dev).tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/script (dev).tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/script.tmpl" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/script.tmpl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/site-patch.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/site-patch.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/ssl_support.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/ssl_support.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/unicode_utils.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/unicode_utils.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/version.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/version.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/windows_support.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/setuptools/windows_support.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/DESCRIPTION.rst" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/INSTALLER" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/METADATA" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/METADATA" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/six-1.11.0.dist-info/top_level.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/six.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/six.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/DESCRIPTION.rst" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/INSTALLER" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/METADATA" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/METADATA" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/WHEEL" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/WHEEL" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing-3.6.4.dist-info/top_level.txt" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing.py" afterPath="$PROJECT_DIR$/ambiente/Lib/site-packages/typing.py" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Lib/tcl8.6/init.tcl" afterPath="$PROJECT_DIR$/ambiente/Lib/tcl8.6/init.tcl" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_asyncio.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_asyncio.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_bz2.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_bz2.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_ctypes.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_ctypes.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_ctypes_test.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_ctypes_test.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_decimal.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_decimal.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_elementtree.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_elementtree.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_hashlib.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_hashlib.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_lzma.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_lzma.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_msi.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_msi.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_multiprocessing.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_multiprocessing.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_overlapped.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_overlapped.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_socket.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_socket.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_sqlite3.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_sqlite3.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_ssl.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_ssl.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_testbuffer.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_testbuffer.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_testcapi.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_testcapi.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_testconsole.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_testconsole.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_testimportmultiple.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_testimportmultiple.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_testmultiphase.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_testmultiphase.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/_tkinter.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/_tkinter.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/django-admin.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/django-admin.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/easy_install-3.6.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/easy_install-3.6.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/easy_install.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/easy_install.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/gunicorn.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/gunicorn.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/gunicorn_paster.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/gunicorn_paster.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/pip.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/pip.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/pip3.6.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/pip3.6.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/pip3.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/pip3.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/pyexpat.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/pyexpat.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/python.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/python.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/python3.dll" afterPath="$PROJECT_DIR$/ambiente/Scripts/python3.dll" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/python36.dll" afterPath="$PROJECT_DIR$/ambiente/Scripts/python36.dll" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/pythonw.exe" afterPath="$PROJECT_DIR$/ambiente/Scripts/pythonw.exe" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/select.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/select.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/sqlite3.dll" afterPath="$PROJECT_DIR$/ambiente/Scripts/sqlite3.dll" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/tcl86t.dll" afterPath="$PROJECT_DIR$/ambiente/Scripts/tcl86t.dll" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/tk86t.dll" afterPath="$PROJECT_DIR$/ambiente/Scripts/tk86t.dll" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/unicodedata.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/unicodedata.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/vcruntime140.dll" afterPath="$PROJECT_DIR$/ambiente/Scripts/vcruntime140.dll" />
+      <change beforePath="$PROJECT_DIR$/ambiente/Scripts/winsound.pyd" afterPath="$PROJECT_DIR$/ambiente/Scripts/winsound.pyd" />
+      <change beforePath="$PROJECT_DIR$/ambiente/pip-selfcheck.json" afterPath="$PROJECT_DIR$/ambiente/pip-selfcheck.json" />
+      <change beforePath="$PROJECT_DIR$/ambiente/pyvenv.cfg" afterPath="$PROJECT_DIR$/ambiente/pyvenv.cfg" />
+      <change beforePath="$PROJECT_DIR$/templates/base/base.html" afterPath="$PROJECT_DIR$/templates/base/base.html" />
+      <change beforePath="$PROJECT_DIR$/templates/promociones/promotionDetails.html" afterPath="$PROJECT_DIR$/templates/promociones/promotionDetails.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/promociones/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promotionDetails.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/promociones/promotionDetails.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="70" column="40" lean-forward="false" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src</find>
+      <find>portfol</find>
+      <find>portfolio s1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/apps/promociones/admin.py" />
+        <option value="$PROJECT_DIR$/apps/promociones/migrations/urls.py" />
+        <option value="$PROJECT_DIR$/appAgiles/urls.py" />
+        <option value="$PROJECT_DIR$/apps/promociones/views.py" />
+        <option value="$PROJECT_DIR$/apps/promociones/urls.py" />
+        <option value="$PROJECT_DIR$/appAgiles/settings.py" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/promociones/index.html" />
+        <option value="$PROJECT_DIR$/templates/promociones/promotionDetails.html" />
+        <option value="$PROJECT_DIR$/templates/base/base.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="appAgiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="appAgiles" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="agiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name="agiles" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="promociones" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julian\Documents\python\agiles\static\images" />
+      <recent name="C:\Users\Julian\Documents\python\agiles" />
+      <recent name="C:\Users\Julian\Documents\python\agiles\appAgiles\static\js" />
+      <recent name="C:\Users\Julian\Documents\python\agiles\appAgiles\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julian\Documents\python\agiles\apps\promociones" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bdd8510-7069-4b69-ae63-3a39cb359082" name="Default" comment="" />
+      <created>1517363445542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517363445542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2564935" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/promociones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/promociones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="4" lean-forward="false" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/promociones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="84" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="84" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="84" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="23" lean-forward="true" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="84" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/promociones/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SednaTemplate_PeterFinlan/Sedna/index.html" />
+    <entry file="file://$PROJECT_DIR$/apps/promociones/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/static/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/appAgiles/static/js/bootstrap.min.js" />
+    <entry file="file://$USER_HOME$/Downloads/shutter-web/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="418" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appAgiles/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="130" column="22" lean-forward="false" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/easing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="193" column="28" lean-forward="true" selection-start-line="193" selection-start-column="28" selection-end-line="193" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/promociones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/promociones/promotionDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="70" column="40" lean-forward="false" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
