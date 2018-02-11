@@ -1,6 +1,9 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
 <form method="post">
     {% csrf_token %}
     {{ auth_form.as_p }}
     {{ user_form.as_p }}
     <button type="submit">Save changes</button>
-  </form>
+</form>
+{% endblock %}
