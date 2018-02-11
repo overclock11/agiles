@@ -1,6 +1,9 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpResponse
-from .models import *
+from .forms import *
+from django.contrib.auth.decorators import login_required
+from django.contrib import messages
+from django.db import transaction
 
 # Create your views here.
 def index(request):
@@ -9,4 +12,26 @@ def index(request):
 
 def promotionDetails(request, promotion_id):
     promotion = Promotion.objects.get(id= promotion_id)
-    return render(request,'promociones/promotionDetails.html',{'promotion':promotion})    
+    return render(request,'promociones/promotionDetails.html',{'promotion':promotion})
+
+@login_required
+@transaction.atomic
+def update_profile(request):
+    if request.method == 'POST':
+        auth_form = AuthUserForm(request.POST, instance=request.user)
+        user_form = UserForm(request.POST, instance=request.user.user)
+        if auth_form.is_valid() and user_form.is_valid():
+            auth_form.save()
+            user_form.save()
+            messages.success(request, _('Usuario actualizado!'))
+            return redirect('')
+        else:
+            messages.error(request, _('Corrija el error..'))
+    else:
+        auth_form = AuthUserForm(instance=request.user)
+        user_form = UserForm(instance=request.user.user)
+    return render(request, 'user/user.html', {
+        'auth_form': auth_form,
+        'user_form': user_form
+    })
+
