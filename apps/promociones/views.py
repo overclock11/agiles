@@ -21,11 +21,14 @@ def loginRequest(request):
         context = { "error_msg": "Invalid user, please try again" }
         return render(request, 'promociones/login.html', context)
 
-    if(user.passw == request.POST['password']):
-        context = { "user" : user }
-    else:
+    if(user.passw != request.POST['password']):
         context = {"error_msg": "Invalid password, please try again"}
         return render(request, 'promociones/login.html', context)
 
-    promotions = Promotion.objects.values() #valid login
-    return render(request, 'promociones/index.html', {'promotions': promotions})
+    # On successfull login...
+    request.session["loggedUser"] = user.to_dictionary()
+    return index(request)
+
+def logoutRequest(request):
+    request.session["loggedUser"] = None
+    return index(request)

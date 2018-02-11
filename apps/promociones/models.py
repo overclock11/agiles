@@ -14,6 +14,18 @@ class User(models.Model):
     def __str__(self):
         return "Usuario " + self.name + ", con email " + self.email
 
+    def to_dictionary(self):
+        return {
+            'name': self.name,
+            'user': self.user,
+            'passw': self.passw,
+            'photo': self.photo,
+            'country': self.country,
+            'city': self.city,
+            'address': self.address,
+            'email': self.email
+        }
+
 class Category(models.Model):
     name = models.CharField(max_length=50)
 
