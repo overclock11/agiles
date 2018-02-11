@@ -22,8 +22,12 @@ def update_profile(request):
         auth_form = AuthUserForm(request.POST, instance=request.user)
         user_form = UserForm(request.POST, instance=request.user.user)
         if auth_form.is_valid() and user_form.is_valid():
+            print(request.FILES)
             auth_form.save()
-            user_form.save()
+            user = user_form.save()
+            if 'photo' in request.FILES:
+                user.photo = request.FILES['photo']
+                user.save()
             messages.success(request, 'Usuario actualizado!')
             return redirect('/admin')
         else:

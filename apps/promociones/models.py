@@ -6,7 +6,7 @@ from django.dispatch import receiver
 # Create your models here.
 class User(models.Model):
     user = models.OneToOneField(AuthUser, on_delete=models.CASCADE)
-    photo = models.TextField()
+    photo = models.ImageField()
     country = models.CharField(max_length=50)
     city = models.CharField(max_length=50)
     address = models.CharField(max_length=50)

@@ -1,6 +1,6 @@
 {% extends "admin/base_site.html" %}
 {% block content %}
-<form method="post">
+<form method="post" enctype="multipart/form-data">
     {% csrf_token %}
     {{ auth_form.as_p }}
     {{ user_form.as_p }}
