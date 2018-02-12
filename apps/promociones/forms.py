@@ -11,3 +11,18 @@ class UserForm(forms.ModelForm):
     class Meta:
         model = User
         fields = ['photo', 'country', 'city', 'address']
+
+class CreateUser(forms.ModelForm):
+      class Meta:
+        model = User
+        fields = [
+                  'photo',
+                  'country',
+                  'city',
+                  'address'
+        ]
+
+class UserCreatForm(forms.ModelForm):
+    class Meta:
+        model = AuthUser
+        fields = ['first_name', 'last_name', 'email', 'username', 'password']
