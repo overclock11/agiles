@@ -12,7 +12,7 @@ class User(models.Model):
     address = models.CharField(max_length=50)
 
     def __str__(self):
-        return "Usuario " + self.name + ", con email " + self.email
+        return "Usuario " + self.city
 
 @receiver(post_save, sender=AuthUser)
 def create_user_profile(sender, instance, created, **kwargs):
