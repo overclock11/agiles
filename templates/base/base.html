@@ -52,9 +52,12 @@
                             <li class="page-scroll">
 	                        <a id="userGreeting" class="subNavBtn active" href="/promociones">Welcome {{ request.user.first_name }}</a>
 	                        </li>
+							<li class="page-scroll">
+								<a href="/admin/profile">Edit profile</a> 
+							</li>
                             <li class="page-scroll">
                                 <a class="subNavBtn" href="/logout?next=/promociones">Logout</a>
-                            </li>
+							</li>
 						{% else %}
                             <li class="page-scroll">
                                 <a id="s3" class="subNavBtn" href="/signup">Sign Up</a>
