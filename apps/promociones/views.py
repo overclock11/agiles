@@ -1,5 +1,4 @@
 from django.shortcuts import render, redirect
-from django.http import HttpResponse
 from .forms import AuthUserForm, UserForm
 from .models import *
 from django.contrib.auth.decorators import login_required
@@ -14,6 +13,28 @@ def index(request):
 def promotionDetails(request, promotion_id):
     promotion = Promotion.objects.get(id= promotion_id)
     return render(request,'promociones/promotionDetails.html',{'promotion':promotion})
+
+def loginPage(request):
+    return render(request, 'promociones/login.html')
+
+def loginRequest(request):
+    try:
+        user = User.objects.get(user=request.POST['username'])
+    except User.DoesNotExist:
+        context = { "error_msg": "Invalid user, please try again" }
+        return render(request, 'promociones/login.html', context)
+
+    if(user.passw != request.POST['password']):
+        context = {"error_msg": "Invalid password, please try again"}
+        return render(request, 'promociones/login.html', context)
+
+    # On successfull login...
+    request.session["loggedUser"] = user.to_dictionary()
+    return index(request)
+
+def logoutRequest(request):
+    request.session["loggedUser"] = None
+    return index(request)
 
 @login_required
 @transaction.atomic
@@ -40,4 +61,3 @@ def update_profile(request):
         'auth_form': auth_form,
         'user_form': user_form
     })
-
