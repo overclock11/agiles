@@ -11,6 +11,7 @@
 <script src="{% static 'js/jquery.min.js' %}"></script>
 <!-- Custom Theme files -->
 <link href="{% static 'css/style.css' %}" rel='stylesheet' type='text/css' />
+
 <!-- Custom Theme files -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -46,9 +47,25 @@
 	                    <li class="active">
 	                        <a id="sTop" class="subNavBtn active" href="/promociones">Home</a>
 	                    </li>
-	                    <li class="page-scroll">
-	                        <a id="s3" class="subNavBtn" href="/promociones/signup">Sign Up</a>
-	                    </li>
+						<!-- Handles current user session -->
+						{% if user.is_authenticated %}
+                            <li class="page-scroll">
+	                        <a id="userGreeting" class="subNavBtn active" href="/promociones">Welcome {{ request.user.first_name }}</a>
+	                        </li>
+							<li class="page-scroll">
+								<a href="/admin/profile">Edit profile</a> 
+							</li>
+                            <li class="page-scroll">
+                                <a class="subNavBtn" href="/logout?next=/promociones">Logout</a>
+							</li>
+						{% else %}
+                            <li class="page-scroll">
+                                <a id="s3" class="subNavBtn" href="/signup">Sign Up</a>
+                            </li>
+                            <li class="page-scroll">
+                                <a href="/login">Sign In</a>
+                            </li>
+						{% endif %}
 	                </ul>
 	            </div>
 	            <!-- /.navbar-collapse -->

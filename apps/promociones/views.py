@@ -14,7 +14,7 @@ def index(request):
 
 def promotionDetails(request, promotion_id):
     promotion = Promotion.objects.get(id= promotion_id)
-    return render(request,'promociones/promotionDetails.html',{'promotion':promotion})
+    return render(request,'promociones/promotionDetails.html',{'promotion': promotion})
 
 @login_required
 @transaction.atomic
