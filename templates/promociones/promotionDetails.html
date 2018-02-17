@@ -10,16 +10,30 @@
                 <img src="{{promotion.image}}" alt="" class="img-responsive">
             </div>
             <div class="col-md-3">
-                <h1>{{promotion.name}}</h1>
-                <p>{{promotion.description}}</p>
-                <h4 style="color:orange;">${{promotion.value|intcomma}}</h4>
-                <a href="/promociones">                    
+                <div class="row">
+                   <div class="col-md-12">
+                     <h1>{{promotion.name}}</h1>
+                     <p>{{promotion.description}}</p>
+                     <h4 style="color:orange;">${{promotion.value|intcomma}}</h4>
+                     <a href="/promociones">
                     <i class="fa fa-arrow-circle-left " style="color:red;">
                         Volver
                     </i>
-                </a>                
-                
+                </a>
+
+                   </div>
+                   <div class="col-md-12">
+                    <form method="post" enctype="multipart/form-data">
+                         {% csrf_token %}
+                         {{ comment.as_p }}
+                         <button type="submit">Registrar</button>
+                     </form>
+                   </div>
+                </div>
+
             </div>
         </div>
+
+
     </div>
 {% endblock%}

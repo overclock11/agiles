@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
-from .forms import AuthUserForm, UserForm, CreateUser, UserCreatForm
+from .forms import AuthUserForm, UserForm, CreateUser, UserCreatForm, CommentForm
 from .models import *
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
@@ -13,8 +13,17 @@ def index(request):
     return render(request,'promociones/index.html',{'promotions':promotions})
 
 def promotionDetails(request, promotion_id):
-    promotion = Promotion.objects.get(id= promotion_id)
-    return render(request,'promociones/promotionDetails.html',{'promotion': promotion})
+    promotion = Promotion.objects.get(id=promotion_id)
+    if request.method== 'POST':
+        comment = CommentForm(request.POST)
+        if comment.is_valid():
+            comment.save()
+        else:
+            messages.error(request, 'Corrija el error..')
+    else:
+        comment = CommentForm()
+
+    return render(request,'promociones/promotionDetails.html',{'promotion': promotion,'comment':comment})
 
 @login_required
 @transaction.atomic

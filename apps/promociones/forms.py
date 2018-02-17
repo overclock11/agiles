@@ -26,3 +26,10 @@ class UserCreatForm(forms.ModelForm):
     class Meta:
         model = AuthUser
         fields = ['first_name', 'last_name', 'email', 'username', 'password']
+
+
+class CommentForm(forms.ModelForm):
+    comment = forms.Textarea()
+    class Meta:
+        model = Commentary
+        fields = ['email','comment']
