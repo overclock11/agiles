@@ -14,16 +14,24 @@ def index(request):
 
 def promotionDetails(request, promotion_id):
     promotion = Promotion.objects.get(id=promotion_id)
+    coments= Commentary.objects.filter(promotion_id=promotion_id)
+    print(coments)
     if request.method== 'POST':
         comment = CommentForm(request.POST)
+
         if comment.is_valid():
-            comment.save()
+            addComment = comment.instance
+            addComment.save()
+            addComment.promotion = promotion
+            addComment.save()
+            return redirect('/promociones/'+promotion_id)
+
         else:
             messages.error(request, 'Corrija el error..')
     else:
         comment = CommentForm()
 
-    return render(request,'promociones/promotionDetails.html',{'promotion': promotion,'comment':comment})
+    return render(request,'promociones/promotionDetails.html',{'promotion': promotion,'comment':comment, 'coments':coments})
 
 @login_required
 @transaction.atomic
