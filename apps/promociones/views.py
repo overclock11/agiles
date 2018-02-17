@@ -9,8 +9,12 @@ from  datetime import datetime
 
 # Create your views here.
 def index(request):
-    promotions = Promotion.objects.values()
-    return render(request,'promociones/index.html',{'promotions':promotions})
+    category = request.GET.get('category', 0)
+    if (category is 0):
+        promotions = Promotion.objects.all()
+    else:
+        promotions = Promotion.objects.filter(category=category)
+    return render(request,'promociones/index.html',{'promotions':promotions, 'categories':Category.objects.all()})
 
 def promotionDetails(request, promotion_id):
     promotion = Promotion.objects.get(id= promotion_id)
