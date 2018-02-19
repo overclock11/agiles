@@ -48,8 +48,9 @@ class Promotion(models.Model):
 
 class Commentary(models.Model):
     comment = models.TextField()
-    user = models.ForeignKey(User, null=True, blank=True, on_delete=models.CASCADE)
-    promotion = models.ForeignKey(Promotion, null=True, blank=True, on_delete=models.CASCADE)
+    #user = models.ForeignKey(User, null=True, blank=True, on_delete=models.CASCADE)
+    promotion = models.ForeignKey(Promotion,null=True, on_delete=models.CASCADE)
+    email=models.EmailField(null=True)
 
     def __str__(self):
-        return "Comentario de usuario " + self.user + " en promoción " + self.promotion.name
+        return "Comentario de usuario " + self.comment + " en promoción " + self.email
