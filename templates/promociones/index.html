@@ -9,6 +9,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 {% block content %}
 <div class="portfolio s1" id="portfolio">
+	<div>
+		<form method="GET">
+			<label for="category">Category</label>
+			<select name="category" id="category">
+				{% for category in categories %}
+				<option value="{{ category.id }}">{{ category.name }}</option>
+				{% endfor %}
+			</select>
+			<button type="submit">Filtrar</button>
+		</form>
+	</div>
     <div class="portfolio_box">
 		{% for promotion in promotions %}
 		<div class="col_1_of_4 span_1_of_4">
