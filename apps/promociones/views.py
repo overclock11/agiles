@@ -5,7 +5,9 @@ from .models import *
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from django.db import transaction
-from  datetime import datetime
+from datetime import datetime
+from .serializers import CategorySerializer
+from rest_framework.renderers import JSONRenderer
 
 # Create your views here.
 def index(request):
@@ -14,7 +16,13 @@ def index(request):
         promotions = Promotion.objects.all()
     else:
         promotions = Promotion.objects.filter(category=category)
-    return render(request,'promociones/index.html',{'promotions':promotions, 'categories':Category.objects.all()})
+
+    categories = {
+        'categories': CategorySerializer(Category.objects.all(), many=True).data
+    }
+
+    categories = JSONRenderer().render(categories).decode('utf-8')
+    return render(request,'promociones/index.html',{'promotions': promotions, 'categories': categories})
 
 def promotionDetails(request, promotion_id):
     promotion = Promotion.objects.get(id=promotion_id)
@@ -85,10 +93,6 @@ def signup(request):
             user_auth.user.photo = user.photo
             user_auth.user.save()
 
-#            username = form.cleaned_data.get('username')
-            #raw_password = form.cleaned_data.get('password1')
-            #user = authenticate(username=username, password=raw_password)
-            #login(request, user)
             return redirect('/promociones')
         else:
             print(form.errors.as_data())

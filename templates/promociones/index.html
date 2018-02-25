@@ -10,39 +10,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 {% block content %}
 <div class="portfolio s1" id="portfolio">
 	<div>
-		<form method="GET">
-			<label for="category">Category</label>
-			<select name="category" id="category">
-				{% for category in categories %}
-				<option value="{{ category.id }}">{{ category.name }}</option>
-				{% endfor %}
-			</select>
-			<button type="submit">Filtrar</button>
-		</form>
 	</div>
-    <div class="portfolio_box">
-		{% for promotion in promotions %}
-		<div class="col_1_of_4 span_1_of_4">
-			<a href="/promociones/{{promotion.id}}" class="b-link-stripe b-animate-go thickbox">
-				<img src="{{promotion.image}}" class="img-responsive" alt=""/>
-			    <div class="b-wrapper">
-						<h2 class="b-animate b-from-left    b-delay03 ">
-						  <span>{{promotion.name}}</span>
-						  <img src="{{promotion.image}}" class="img-responsive" alt="" width="70" height="50"/>
-						  <p style="font-size:10px;">{{promotion.description}}</p>						  						  
-						  <button>Ver promo</button>
-						  <label> <i class="heart"> </i>{{promotion.value|intcomma}}</label>
-						 </h2>
-				</div>
-			</a>
-		</div>		
-    	{% endfor %}		
-		<div class="clearfix"> </div>
+	<div data-react-class="PromocionesList" data-react-props='{{ categories | safe }}'>
 	</div>
 </div>
-   <div class="portfolio_bottom">
-   	 <a class="btn3" href="#"><span>Loadmore</span></a>
-   </div>
 {% endblock %}
-
-

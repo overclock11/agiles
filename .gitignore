@@ -99,3 +99,6 @@ local_settings.py
 
 .env
 db.sqlite3
+
+# npm
+node_modules/
