@@ -8,6 +8,7 @@ from django.db import transaction
 from datetime import datetime
 from .serializers import CategorySerializer
 from rest_framework.renderers import JSONRenderer
+from django.core.mail import send_mail
 
 # Create your views here.
 def index(request):
@@ -36,6 +37,15 @@ def promotionDetails(request, promotion_id):
             addComment.save()
             addComment.promotion = promotion
             addComment.save()
+
+            send_mail(
+                'Has dejado un nuevo comentario.',
+                'Comentario: ' + comment.instance.comment,
+                'info@cuporillaz.com',
+                [comment.instance.email],
+                fail_silently=False,
+            )
+
             return redirect('/promociones/'+promotion_id)
 
         else:
