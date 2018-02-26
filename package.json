@@ -1,0 +1,34 @@
+{
+  "name": "promociones",
+  "version": "1.0.0",
+  "description": "MISO4101 Grupo 2. Ejercicio de apropiación.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overclock11/agiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overclock11/agiles/issues"
+  },
+  "homepage": "https://github.com/overclock11/agiles#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^3.1.1",
+    "jquery": "^3.3.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^4.0.0",
+    "webpack-bundle-tracker": "^0.2.1",
+    "webpack-cli": "^2.0.8"
+  }
+}

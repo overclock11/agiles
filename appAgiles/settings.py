@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'apps.promociones',
     'django_extensions',
     'django.contrib.humanize',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -76,6 +77,11 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'appAgiles.wsgi.application'
 
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
+}
 
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases

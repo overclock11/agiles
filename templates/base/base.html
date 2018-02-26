@@ -3,12 +3,7 @@
 <html lang="es">
 <head>
 <title>Portal de promociones</title>
-<link href="{% static 'css/bootstrap.css' &}" rel='stylesheet' type='text/css' />
-<!--<link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-<script src="js/bootstrap.min.js"></script>-->
 <link href="{% static 'css/bootstrap.min.css' %}" rel='stylesheet' type='text/css' />
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="{% static 'js/jquery.min.js' %}"></script>
 <!-- Custom Theme files -->
 <link href="{% static 'css/style.css' %}" rel='stylesheet' type='text/css' />
 
@@ -19,17 +14,7 @@
 <!----webfonts---->
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,500,700,900' rel='stylesheet' type='text/css'>
 <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
-<!----//webfonts---->
-<!----//requred-js-files---->
-<script src="{% static 'js/easing.js' %}"></script>
-	<script type="text/javascript" 	src="{% static 'js/jquery.smint.js' %}"></script>
-		<script type="text/javascript">
-			$(document).ready( function() {
-			    $('.subMenu').smint({
-			    	'scrollSpeed' : 1000
-			    });
-			});
-		</script>
+	
 </head>
 <body>
     {% block header %}
@@ -37,7 +22,7 @@
 	        <div class="container">
 	            <div class="navbar-header page-scroll">
 	                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-main-collapse">
-	                    <img src="images/nav-icon.png" title="drop-down-menu">
+	                    <img src="{% static 'images/nav-icon.png' %}" title="drop-down-menu">
 	                </button>
 	            </div>
 	            <!-- Collect the nav links, forms, and other content for toggling -->
@@ -81,7 +66,7 @@
 	<div class="footer" style="position: fixed; bottom: 10px; right: 10px; width: 100%;">
 		<div class="container">
 			<div class="copy">
-			<p>&copy; 2014 Template by <a href="http://w3layouts.com" target="_blank"> w3layouts</a></p>
+			<p>MISO 4101 - Grupo 2</p>
 		 </div>
 		 <div class="social">
 		   <ul>
@@ -91,7 +76,9 @@
 		 <div class="clearfix"></div>
 		</div>
 	</div>
-	<script src="{% static 'js/bootstrap.min.js' %}"></script>	
+	{% endblock %}
+	<script src="{% static 'js/app.js' %}"></script>	
+	{% block scripts %}
 	{% endblock %}
 </body>
 </html>
